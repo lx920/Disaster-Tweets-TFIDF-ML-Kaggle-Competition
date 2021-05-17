@@ -38,8 +38,9 @@ I decided to use TF-IDF over Bag of Words.
 
 # Model Training
 I applied 5 ML models on the TF-IDF processed data. And measured their performance.
-- Logistic Regression\ 
-0.80 accuracy score. \
+- Logistic Regression\
+ 
+0.80 accuracy score. 
 - Random Forest (Untuned) \
 0.78 accuracy score \
 could be better because I did not tune parameters, takes too long.
