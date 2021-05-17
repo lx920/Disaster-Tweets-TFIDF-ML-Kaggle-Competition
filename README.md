@@ -38,14 +38,14 @@ I decided to use TF-IDF over Bag of Words.
 
 # Model Training
 I applied 5 ML models on the TF-IDF processed data. And measured their performance.
-- Logistic Regression 
+- Logistic Regression\ 
 0.80 accuracy score.
-- Random Forest (Untuned)
+- Random Forest (Untuned)\
 0.78 accuracy score \
 could be better because I did not tune parameters, takes too long.
-- XGBoost 
+- XGBoost\
 0.77 accuracy score
-- Voting Ensemble
+- Voting Ensemble\
 Voting Ensemble consists of logistic regression, Naive Bayes and XGBoost\
 0.82 accuracy score
 
